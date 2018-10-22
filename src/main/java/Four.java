@@ -6,7 +6,7 @@
  * @Date 2018-09-21
  * @Time 16:21
  */
-public class four {
+public class Four {
     public static void main(String[] args) {
         int[][] nums = {
                 {1, 2, 3, 4},
@@ -17,6 +17,36 @@ public class four {
 
         findNum2(nums, 20);
 
+    }
+
+    /**
+     * 牛客网
+     */
+    public boolean find(int target, int [][] array) {
+        /*
+            1 2 3 4
+            2 3 6 7
+            3 4 8 9
+        */
+        if(array.length == 0 || array[0].length == 0) {
+            return false;
+        }
+        int i = 0, j = array[0].length - 1;
+        int num = array[i][j];
+        while(target != num) {
+            if(target < num) {
+                if(j == 0) {
+                    break;
+                }
+                num = array[i][--j];
+            } else {
+                if(i == array.length - 1) {
+                    break;
+                }
+                num = array[++i][j];
+            }
+        }
+        return target == num;
     }
 
     /**
