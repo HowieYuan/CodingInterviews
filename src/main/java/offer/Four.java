@@ -1,3 +1,5 @@
+package offer;
+
 /**
  * Created with IntelliJ IDEA
  *
