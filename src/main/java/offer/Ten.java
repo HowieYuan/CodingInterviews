@@ -4,7 +4,7 @@ package offer;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 10.斐波那契
+ * @Description p74  10.斐波那契
  * @Date 2018-11-19
  * @Time 16:15
  */
