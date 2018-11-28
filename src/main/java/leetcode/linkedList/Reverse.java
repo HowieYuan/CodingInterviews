@@ -20,7 +20,7 @@ public class Reverse {
         return current;
     }
 
-    public class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
 
