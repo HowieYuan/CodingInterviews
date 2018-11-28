@@ -11,7 +11,12 @@
 [10.3. 青蛙变态跳台阶](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Ten3.java)<br />
 [10.4. 矩形覆盖](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Ten4.java)<br />
 [11. 旋转数组的最小数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Eleven.java)<br />
+[12. 矩阵中的路径](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Twelve.java)<br />
+[13. 机器人的运动范围](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Thirteen.java)<br />
+[14. 剪绳子](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Fourteen.java)<br />
+[15. 二进制中1的个数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/Fifteen.java)<br />
 
 ## 二. Leetcode
 ### 1. 链表
+[24. 两两交换链表中的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/SwapNodes.java)<br />
 [206. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/Reverse.java)<br />
