@@ -1,4 +1,4 @@
-package offer;
+package offer.problem14;
 
 import static java.lang.Math.pow;
 

@@ -1,4 +1,4 @@
-package offer;
+package offer.problem11;
 
 /**
  * Created with IntelliJ IDEA

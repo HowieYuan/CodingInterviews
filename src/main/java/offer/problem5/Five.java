@@ -1,4 +1,4 @@
-package offer;
+package offer.problem5;
 
 import java.util.Arrays;
 

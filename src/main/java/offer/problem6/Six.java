@@ -1,4 +1,4 @@
-package offer;
+package offer.problem6;
 
 import java.util.ArrayList;
 import java.util.Stack;
