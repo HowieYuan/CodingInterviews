@@ -1,4 +1,4 @@
-package offer.problem9;
+package offer.problem09;
 
 import java.util.Stack;
 

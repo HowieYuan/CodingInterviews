@@ -1,6 +1,4 @@
-package offer.problem5;
-
-import java.util.Arrays;
+package offer.problem05;
 
 /**
  * Created with IntelliJ IDEA
