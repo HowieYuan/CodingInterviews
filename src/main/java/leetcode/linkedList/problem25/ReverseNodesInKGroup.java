@@ -1,4 +1,4 @@
-package leetcode.linkedList;
+package leetcode.linkedList.problem25;
 
 /**
  * Created with IntelliJ IDEA

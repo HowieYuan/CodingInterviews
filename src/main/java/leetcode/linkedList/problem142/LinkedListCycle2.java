@@ -1,4 +1,4 @@
-package leetcode.linkedList;
+package leetcode.linkedList.problem142;
 
 import java.util.HashSet;
 import java.util.Set;
