@@ -13,12 +13,12 @@ public class SwapNodes {
      * 迭代
      */
     public static ListNode swapPairs(ListNode head) {
-        if(head == null || head.next == null) {
+        if (head == null || head.next == null) {
             return head;
         }
         ListNode node = head, pre = new ListNode(0);
         head = head.next;
-        while(node != null && node.next != null) {
+        while (node != null && node.next != null) {
             ListNode a = node.next;
             ListNode b = a.next;
             pre.next = a;
