@@ -15,8 +15,17 @@
 [13. 机器人的运动范围](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem13/Thirteen.java)<br />
 [14. 剪绳子](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem14/Fourteen.java)<br />
 [15. 二进制中1的个数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem15/Fifteen.java)<br />
+[16. 数值的整数次方](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem16/Power.java)<br />
+[17. 打印从1到最大的n位数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem17/ToMax.java)<br />
+[18.删除链表的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteNode.java)<br />
+[18.2 删除链表中重复节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteDuplication.java)<br />
+[19. 正则表达式匹配](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem19/MatchRegularExpression.java)<br />
+[20. 表示数值的字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem20/IsNumeric.java)<br />
 
 ## 二. Leetcode
 ### 1. 链表
 [24. 两两交换链表中的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/SwapNodes.java)<br />
+[25. k个一组翻转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/ReverseNodesInKGroup.java)<br />
+[141. 环形链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/LinkedListCycle.java)<br />
+[142. 环形链表2](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/LinkedListCycle2.java)<br />
 [206. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/Reverse.java)<br />
