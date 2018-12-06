@@ -24,8 +24,8 @@
 
 ## 二. Leetcode
 ### 1. 链表
-[24. 两两交换链表中的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/SwapNodes.java)<br />
-[25. k个一组翻转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/ReverseNodesInKGroup.java)<br />
-[141. 环形链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/LinkedListCycle.java)<br />
-[142. 环形链表2](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/LinkedListCycle2.java)<br />
-[206. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/Reverse.java)<br />
+[24. 两两交换链表中的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem24/SwapNodes.java)<br />
+[25. k个一组翻转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem25/ReverseNodesInKGroup.java)<br />
+[141. 环形链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem141/LinkedListCycle.java)<br />
+[142. 环形链表2](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem142/LinkedListCycle2.java)<br />
+[206. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem206/Reverse.java)<br />
