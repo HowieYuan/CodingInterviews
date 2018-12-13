@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 21. 调整数组顺序使奇数位于偶数前面f
+ * @Description 21. 调整数组顺序使奇数位于偶数前面
  * @Date 2018-12-12
  * @Time 16:35
  */
