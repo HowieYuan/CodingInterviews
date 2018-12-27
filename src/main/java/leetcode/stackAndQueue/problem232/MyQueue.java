@@ -6,7 +6,7 @@ import java.util.Stack;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description
+ * @Description 232. 栈实现队列
  * @Date 2018-12-07
  * @Time 1:21
  */

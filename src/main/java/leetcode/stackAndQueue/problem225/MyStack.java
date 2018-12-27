@@ -7,7 +7,7 @@ import java.util.Queue;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description
+ * @Description 225. 队列实现栈
  * @Date 2018-12-07
  * @Time 2:07
  */
