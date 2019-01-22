@@ -32,6 +32,7 @@ public class MaxSlidingWindow {
                 deque.pollLast();
             }
             deque.add(i);
+            //当遍历到大于等于 k - 1 位置的时候，每次都需要输出一个结果值
             if(i >= k - 1) {
                 results[n++] = nums[deque.peek()];
             }
