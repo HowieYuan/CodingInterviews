@@ -22,6 +22,16 @@
 [19. 正则表达式匹配](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem19/MatchRegularExpression.java)<br />
 [20. 表示数值的字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem20/IsNumeric.java)<br />
 [21. 调整数组顺序使奇数位于偶数前面](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem21/ExchangeOddEven.java)<br />
+[22. 链表中倒数第k个结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem22/FindKthToTail.java)<br />
+[23. 链表中环的入口结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem23/EntryNodeOfLoop.java)<br />
+[24. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem24/ReverseList.java)<br />
+[25. 合并两个排序的链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem25/MergeSortedList.java)<br />
+[26. 树的子结构](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem26/HasSubtree.java)<br />
+[27. 二叉树的镜像](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem27/MirrorTree.java)<br />
+[28. 判断树的对称](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem28/SymmetricalTree.java)<br />
+[29. 顺时针打印矩阵](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem29/MatrixCircle.java)<br />
+
+
 
 ## 二. Leetcode
 ### 1. 链表
