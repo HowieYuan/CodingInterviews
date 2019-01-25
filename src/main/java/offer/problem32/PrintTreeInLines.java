@@ -8,11 +8,11 @@ import java.util.Queue;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 33. 分行从上到下打印二叉树
+ * @Description 32.2. 分行从上到下打印二叉树
  * @Date 2019-01-25
  * @Time 2:00
  */
-public class printFromTopToBottomByRow {
+public class PrintTreeInLines {
     ArrayList<ArrayList<Integer>> print(TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         if (pRoot == null) {

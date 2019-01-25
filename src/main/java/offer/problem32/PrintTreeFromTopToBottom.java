@@ -8,7 +8,7 @@ import java.util.Queue;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 32. 从上往下打印二叉树（层次遍历二叉树）
+ * @Description 32.1. 从上往下打印二叉树（层次遍历二叉树）
  * @Date 2019-01-24
  * @Time 20:49
  */
