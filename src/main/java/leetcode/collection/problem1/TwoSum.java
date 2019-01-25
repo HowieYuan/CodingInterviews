@@ -7,6 +7,7 @@ import java.util.HashMap;
  *
  * @Author yuanhaoyue swithaoy@gmail.com
  * @Description 1. 两数之和
+ *                  z 已知，在无序数组中找到两个数x和y，使x+y=z
  * @Date 2018-12-13
  * @Time 12:54
  */
