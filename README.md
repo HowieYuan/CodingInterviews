@@ -6,7 +6,7 @@
 [7. 重建二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem7/Seven.java)<br />
 [8. 二叉树的下一个结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem8/Eight.java)<br />
 [9. 用两个栈实现队列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem9/Nine.java)<br />
-[10. 斐波那契](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten.java)<br />
+[10.1. 斐波那契](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten.java)<br />
 [10.2. 青蛙跳台阶](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten2.java)<br />
 [10.3. 青蛙变态跳台阶](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten3.java)<br />
 [10.4. 矩形覆盖](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten4.java)<br />
