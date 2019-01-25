@@ -17,8 +17,8 @@
 [15. 二进制中1的个数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem15/Fifteen.java)<br />
 [16. 数值的整数次方](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem16/Power.java)<br />
 [17. 打印从1到最大的n位数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem17/ToMax.java)<br />
-[18.删除链表的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteNode.java)<br />
-[18.2 删除链表中重复节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteDuplication.java)<br />
+[18.1. 删除链表的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteNode.java)<br />
+[18.2. 删除链表中重复节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem18/DeleteDuplication.java)<br />
 [19. 正则表达式匹配](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem19/MatchRegularExpression.java)<br />
 [20. 表示数值的字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem20/IsNumeric.java)<br />
 [21. 调整数组顺序使奇数位于偶数前面](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem21/ExchangeOddEven.java)<br />
@@ -30,6 +30,11 @@
 [27. 二叉树的镜像](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem27/MirrorTree.java)<br />
 [28. 判断树的对称](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem28/SymmetricalTree.java)<br />
 [29. 顺时针打印矩阵](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem29/MatrixCircle.java)<br />
+[30. 包含min函数的栈](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem30/MinStack.java)<br />
+[31. 栈的压入，弹出序列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem31/IsPopOrder.java)<br />
+[32.1. 从上往下打印二叉树（层次遍历二叉树）](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeFromTopToBottom.java)<br />
+[32.2. 分行打印二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeInLines.java)<br />
+[32.3. 之字形打印二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeInZigzag.java)<br />
 
 
 
