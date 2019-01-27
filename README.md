@@ -35,6 +35,14 @@
 [32.1. 从上往下打印二叉树（层次遍历二叉树）](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeFromTopToBottom.java)<br />
 [32.2. 分行打印二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeInLines.java)<br />
 [32.3. 之字形打印二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem32/PrintTreeInZigzag.java)<br />
+[33. 二叉搜索树的后序遍历序列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem33/VerifySquenceOfBST.java)<br />
+[34. 二叉树中和为某一值的路径](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem34/FindTreePath.java)<br />
+[35. 复杂链表的复制](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem35/LinkedListClone.java)<br />
+[36. 二叉搜索树与双向链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem36/Convert.java)<br />
+[37. 序列化二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem37/SerializeTree.java)<br />
+[38. 字符串的排列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem38/PermutationString.java)<br />
+[39. 数组中出现次数超过一半的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem39/MoreThanHalfNum.java)<br />
+[40. 最小的 k 个数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem40/GetLeastNumbers.java)<br />
 
 
 
