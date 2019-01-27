@@ -1,6 +1,6 @@
 package offer.problem40;
 
-    import java.util.*;
+import java.util.*;
 
 /**
  * Created with IntelliJ IDEA
