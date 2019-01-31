@@ -113,14 +113,14 @@ public class GetLeastNumbers {
     }
 
     public static void main(String[] args) {
-        int[] array = new int[10000000];
-        for (int i = 0; i < 10000000; i++) {
+        int[] array = new int[10000];
+        for (int i = 0; i < 10000; i++) {
             Random random = new Random();
-            int a = random.nextInt(9 + 1);
+            int a = random.nextInt(100000000 - 1 + 1) + 1;
             array[i] = a;
         }
         long i = System.currentTimeMillis();
-        System.out.println(Arrays.toString(new GetLeastNumbers().solution3(array, 10)));
+        System.out.println(new GetLeastNumbers().solution1(array, 10));
         long j = System.currentTimeMillis();
         System.out.println(j - i);
     }
