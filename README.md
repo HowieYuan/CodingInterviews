@@ -43,6 +43,17 @@
 [38. 字符串的排列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem38/PermutationString.java)<br />
 [39. 数组中出现次数超过一半的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem39/MoreThanHalfNum.java)<br />
 [40. 最小的 k 个数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem40/GetLeastNumbers.java)<br />
+[41. 中位数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem41/Median.java)<br />
+[42. 连续子数组的最大和](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem42/FindGreatestSumOfSubArray.java)<br />
+[43. 1~n 整数中 1 出现的次数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem43/NumberOf1Between1AndN.java)<br />
+[44. 数字序列中某一位的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem44/DigitAtIndex.java)<br />
+[45. 把数组排成最小的数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem45/PrintMinNumber.java)<br />
+[46. 把数字翻译成字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem46/GetTranslationCount.java)<br />
+[47. 礼物的最大价值](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem47/GiftMaxValue.java)<br />
+[48. 最长不含重复字符的子字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem48/LongestSubstringWithoutDup.java)<br />
+[49. 丑数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem49/GetUglyNumber.java)<br />
+[50.1. 第一个只出现一次的字符](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem50/FirstNotRepeatingChar.java)<br />
+[50.2. 字符流中第一个不重复的字符](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem50/FirstNotRepeatingCharInStream.java)<br />
 
 
 
