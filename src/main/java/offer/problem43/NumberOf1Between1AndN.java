@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description
+ * @Description 43. 1~n 整数中 1 出现的次数
  * @Date 2019-01-31
  * @Time 12:32
  */

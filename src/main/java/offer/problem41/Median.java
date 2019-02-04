@@ -2,6 +2,14 @@ package offer.problem41;
 
 import java.util.*;
 
+/**
+ * Created with IntelliJ IDEA
+ *
+ * @Author yuanhaoyue swithaoy@gmail.com
+ * @Description 41. 中位数
+ * @Date 2019-01-31
+ * @Time 21:37
+ */
 public class Median {
     /**
      * 数值总量
