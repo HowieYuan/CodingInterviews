@@ -54,6 +54,14 @@
 [49. 丑数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem49/GetUglyNumber.java)<br />
 [50.1. 第一个只出现一次的字符](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem50/FirstNotRepeatingChar.java)<br />
 [50.2. 字符流中第一个不重复的字符](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem50/FirstNotRepeatingCharInStream.java)<br />
+[51. 数组中的逆序对](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem51/InversePairsCode.java)<br />
+[52. 两个链表的第一个公共结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem52/FindFirstCommonNode.java)<br />
+[53.1. 数字在排序数组中出现的次数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem53/GetNumberOfK.java)<br />
+[53.2 0~n-1 中缺失的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem53/GetMissingNumber.java)<br />
+[53.3. 数组中数值和下标相等的元素](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem53/GetNumberSameAsIndex.java)<br />
+[54. 二叉搜索树第 K 大节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem54/KthNode.java)<br />
+[55.1. 二叉树的深度](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem55/TreeDepth.java)<br />
+[55.2. 二叉树是否是平衡二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem55/IsBalancedTree.java)<br />
 
 
 
