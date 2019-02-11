@@ -1,7 +1,6 @@
 package offer.problem57;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -9,7 +8,7 @@ import java.util.Set;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 57. 和为 s 的两个数字
+ * @Description 57.1. 和为 s 的两个数字
  * @Date 2019-02-10
  * @Time 23:21
  */
