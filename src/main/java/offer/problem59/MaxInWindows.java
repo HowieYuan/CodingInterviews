@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 59.1. 滑动窗口的最大值
+ * @Description 59. 滑动窗口的最大值
  * @Date 2019-02-11
  * @Time 21:15
  */
