@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class Three {
     public static void main(String[] args) {
-        int[] a = new int[]{1, 2, 3, 2, 3, 4};
+        int[] a = new int[]{2, 3, 1, 0, 2, 5, 3};
         System.out.println(findNumber4(a));
     }
 
@@ -82,12 +82,14 @@ public class Three {
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
             while (i != nums[i]) {
+                //如果 nums[nums[i]] == nums[i] 说明当前数字已经出现过了，即重复数字
                 if (nums[nums[i]] == nums[i]) {
                     if (!list.contains(nums[i])) {
                         list.add(nums[i]);
                     }
                     break;
                 }
+                //如果当前位置的元素不等于位置索引值，则交换到属于它的索引的位置
                 int temp = nums[i];
                 nums[i] = nums[nums[i]];
                 nums[temp] = temp;

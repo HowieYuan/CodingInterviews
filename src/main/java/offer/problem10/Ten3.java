@@ -12,7 +12,7 @@ package offer.problem10;
  */
 public class Ten3 {
     /**
-     *          | 1       ,(n=0 )
+     *          | -1       ,(n=0 )
      *
      * f(n) =   | 1       ,(n=1 )
      *
