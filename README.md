@@ -62,6 +62,19 @@
 [54. 二叉搜索树第 K 大节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem54/KthNode.java)<br />
 [55.1. 二叉树的深度](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem55/TreeDepth.java)<br />
 [55.2. 二叉树是否是平衡二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem55/IsBalancedTree.java)<br />
+[56. 数组中只出现一次的两个数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem56/FindNumsAppearOnce.java)<br />
+[57.1. 和为 s 的两个数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem57/FindNumbersWithSum.java)<br />
+[57.2. 和为 s 的连续正数序列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem57/FindContinuousSequence.java)<br />
+[58.1. 翻转单词顺序](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem58/ReverseSentence.java)<br />
+[58.2. 左旋转字符串](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem58/LeftRotateString.java)<br />
+[59. 滑动窗口的最大值](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem59/MaxInWindows.java)<br />
+[61. 扑克牌中的顺子](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem61/IsContinuous.java)<br />
+[62. 圆圈中最后剩下的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem62/LastRemainingInCircle.java)<br />
+[63. 股票最大利润](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem63/StockMaxProfit.java)<br />
+[64. 求 1+2+3+...+n](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem64/Accumulate.java)<br />
+[65. 不用加减乘除做加法](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem65/AddWithoutFourOperator.java)<br />
+[66. 构建乘积数组](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem66/Multiply.java)<br />
+[67. 把字符串转换成整数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem67/StringToInt.java)<br />
 
 
 
