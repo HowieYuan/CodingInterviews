@@ -25,13 +25,14 @@ public class Power {
             base *= num;
             absEx--;
         }
+        //考虑指数为负
         return exponent < 0 ? 1 / base : base;
     }
 
     /**
      * 快速幂
      */
-    public double Power(double base, int exponent) {
+    public double power2(double base, int exponent) {
         if (exponent == 0) {
             return 1;
         }

@@ -10,6 +10,7 @@ package offer.problem12;
  */
 public class Twelve {
     /**
+     * 回溯法：
      * 判断矩阵中是否存在一条路径
      *
      * @param matrix 输入矩阵
@@ -25,8 +26,10 @@ public class Twelve {
         }
         boolean[] visit = new boolean[rows * cols];
         int length = 0;
+        //两层嵌套循环矩阵，一个个位置遍历
         for (int row = 0; row <= rows; row++) {
             for (int col = 0; col <= cols; col++) {
+                //当前位置的字符和字符串的字符是否相等？如果相等的话则递归检查上下左右位置的字符
                 if (hasPathCore(matrix, rows, row, cols, col, str, visit, length)) {
                     return true;
                 }

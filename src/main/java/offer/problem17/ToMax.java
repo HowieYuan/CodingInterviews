@@ -10,7 +10,9 @@ package offer.problem17;
  */
 public class ToMax {
     /**
-     * 输入数字n，按顺序打印出从1最大的n位十进制
+     * 递归方法
+     * <p>
+     * 陷阱：当 n 的值很大时，用整型甚至长整型可能溢出，因此要使用其他方法
      *
      * @param n 控制数字
      */
@@ -26,7 +28,6 @@ public class ToMax {
 
     /**
      * 输入数字n，按顺序打印出从1最大的n位十进制数。
-     * 递归方法
      *
      * @param number 给定数组
      * @param n      当前控制索引
@@ -88,7 +89,7 @@ public class ToMax {
 
     public static void main(String[] args) {
         // 递归调用
-//        printlToMaxOfDiguts1(2);
+//        printlToMaxOfDiguts1(3);
         System.out.println("==========");
         // 非递归调用
         printlToMaxOfDiguts1(3);

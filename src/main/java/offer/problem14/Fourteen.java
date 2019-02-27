@@ -33,6 +33,7 @@ public class Fourteen {
         dp[2] = 2;
         //当遇到长度为3的子绳子时，如果继续剪，最大只能是2，所以保留其本身长度，即3
         dp[3] = 3;
+        //依次从 4 开始，一步步计算到目标长度
         for (int i = 4; i < dp.length; i++) {
             int max = 0;
             for (int j = 1; j <= i / 2; j++) {
