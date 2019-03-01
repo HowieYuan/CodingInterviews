@@ -7,7 +7,7 @@ import java.util.Set;
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 142.环形链表2
+ * @Description 142.环形链表2(找到链表中环的入口结点)
  * @Date 2018-12-02
  * @Time 18:21
  */

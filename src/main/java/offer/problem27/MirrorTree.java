@@ -1,14 +1,20 @@
 package offer.problem27;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * Created with IntelliJ IDEA
  *
  * @Author yuanhaoyue swithaoy@gmail.com
- * @Description 27.二叉树的镜像
+ * @Description 27. 二叉树的镜像
  * @Date 2019-01-23
  * @Time 15:04
  */
 public class MirrorTree {
+    /**
+     * 递归
+     */
     public void mirror(TreeNode root) {
         if (root != null) {
             TreeNode temp = root.left;
@@ -21,6 +27,31 @@ public class MirrorTree {
             }
             if (root.right != null) {
                 mirror(root.right);
+            }
+        }
+    }
+
+    /**
+     * 循环迭代
+     */
+    public void mirror2(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+
+            TreeNode temp =  node.left;
+            node.left = node.right;
+            node.right = temp;
+
+            if (node.left != null) {
+                queue.add(node.left);
+            }
+            if (node.right != null) {
+                queue.add(node.right);
             }
         }
     }

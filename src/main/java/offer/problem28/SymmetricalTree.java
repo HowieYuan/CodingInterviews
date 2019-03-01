@@ -19,6 +19,7 @@ public class SymmetricalTree {
             return true;
         }
         if (pRoot1 != null && pRoot2 != null && pRoot1.val == pRoot2.val) {
+            //左子树的左子树对应右子树的右子树；左子树的右子树对应右子树的左子树
             return checkSymmetrical(pRoot1.left, pRoot2.right)
                     && checkSymmetrical(pRoot1.right, pRoot2.left);
         }
