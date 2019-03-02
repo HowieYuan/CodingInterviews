@@ -25,8 +25,21 @@ public class MoreThanHalfNum {
         } else if (array.length == 1) {
             return array[0];
         }
-
-        int middleIndex = partition(array, 0, array.length - 1);
+        int middleIndex = array.length / 2;
+        int low = 0;
+        int high = array.length - 1;
+        int index = partition(array, low, high);
+        //利用划分算法找到中间值
+        while (middleIndex != index) {
+            if (middleIndex > index) {
+                low = index + 1;
+                index = partition(array, low, high);
+            } else {
+                high = index - 1;
+                index = partition(array, low, high);
+            }
+        }
+        //检查该值是否是结果
         int count = 0;
         for (int num : array) {
             if (num == array[middleIndex]) {

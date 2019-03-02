@@ -11,7 +11,11 @@ import java.util.Stack;
  * @Time 1:57
  */
 public class IsPopOrder {
-    public boolean isPopOrder(int [] pushA,int [] popA) {
+    /**
+     * @param pushA 入栈序列
+     * @param popA  出栈序列
+     */
+    public boolean isPopOrder(int[] pushA, int[] popA) {
         if (pushA.length != popA.length || pushA.length == 0) {
             return false;
         }
