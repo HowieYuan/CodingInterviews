@@ -16,18 +16,17 @@ public class SwapNodes {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode node = head, pre = new ListNode(0);
-        head = head.next;
-        while (node != null && node.next != null) {
-            ListNode a = node.next;
-            ListNode b = a.next;
-            pre.next = a;
-            pre = node;
-            a.next = node;
-            node.next = b;
-            node = b;
+        ListNode result = head.next;
+        ListNode preNode = new ListNode(0);;
+        while (head != null && head.next != null) {
+            ListNode next = head.next;
+            preNode.next = next;
+            head.next = head.next.next;
+            next.next = head;
+            preNode = head;
+            head = head.next;
         }
-        return head;
+        return result;
     }
 
     /**

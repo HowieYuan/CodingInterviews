@@ -91,19 +91,4 @@ public class ValidAnagram {
         Arrays.sort(ca2);
         return Arrays.equals(ca1, ca2);
     }
-
-
-
-    public static void main(String[] args) {
-        List<Integer> list1 = new ArrayList<>();
-        list1.add(1);
-        list1.add(2);
-        list1.add(3);
-        List list2 = new ArrayList();
-        list2.add(3);
-        list2.add(2);
-        list2.add(1);
-        System.out.println(list1.equals(list2));
-        Arrays.asList(1, 1, 1);
-    }
 }

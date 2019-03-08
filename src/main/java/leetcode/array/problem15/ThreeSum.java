@@ -1,4 +1,4 @@
-package leetcode.collection.problem15;
+package leetcode.array.problem15;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -17,6 +17,9 @@ public class ThreeSum {
         Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         for (int i = 0; i < nums.length - 2; i++) {
+            if (nums[i] > 0) {
+                break;
+            }
             if (i == 0 || nums[i] != nums[i - 1]) {
                 int num = 0 - nums[i], low = i + 1, high = nums.length - 1;
                 while (low < high) {
