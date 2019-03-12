@@ -10,21 +10,24 @@ package leetcode.linkedList.problem25;
  */
 public class ReverseNodesInKGroup {
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode curr = head;
+        if (k < 2 || head == null || head.next == null) {
+            return head;
+        }
         int count = 0;
-        while (curr != null && count != k) {
-            curr = curr.next;
+        ListNode currentNode = head;
+        while (count != k && currentNode != null) {
+            currentNode = currentNode.next;
             count++;
         }
         if (count == k) {
-            curr = reverseKGroup(curr, k);
+            currentNode = reverseKGroup(currentNode, k);
             while (count-- > 0) {
-                ListNode tmp = head.next;
-                head.next = curr;
-                curr = head;
-                head = tmp;
+                ListNode temp = head.next;
+                head.next = currentNode;
+                currentNode = head;
+                head = temp;
             }
-            head = curr;
+            head = currentNode;
         }
         return head;
     }
