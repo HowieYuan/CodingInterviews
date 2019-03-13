@@ -38,6 +38,7 @@ public class MirrorTree {
         if (root == null) {
             return;
         }
+        //使用栈也可以
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
         while (!queue.isEmpty()) {

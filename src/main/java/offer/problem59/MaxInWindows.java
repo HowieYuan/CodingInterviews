@@ -23,7 +23,6 @@ public class MaxInWindows {
             return list;
         }
         Deque<Integer> deque = new ArrayDeque<>(size);
-        int n = 0;
         for(int i = 0; i < num.length; i++) {
             if(deque.size() > 0 && deque.peek() <= i - size) {
                 deque.poll();

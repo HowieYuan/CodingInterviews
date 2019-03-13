@@ -57,11 +57,11 @@ public class KthNode {
         n2.right = n5;
         n3.left = n6;
         n3.right = n7;
-        // 2
-//        System.out.println(traversing(n1));
-        // 4
-//        System.out.println(traversing(n1, 3));
-//        // null
-//        System.out.println(traversing(n1, 8));
+        //2
+        System.out.println(new KthNode().solution(n1, 1).val);
+        //4
+        System.out.println(new KthNode().solution(n1, 3).val);
+        // null
+        System.out.println(new KthNode().solution(n1, 8).val);
     }
 }

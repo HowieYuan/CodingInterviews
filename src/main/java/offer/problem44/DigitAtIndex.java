@@ -18,7 +18,7 @@ public class DigitAtIndex {
             811 / 3 = 270
             811 % 3 = 1
 
-            即 270 的第 1 位，即 7
+            即 270 + 100 = 370 的第 1 位，即 7
          */
         int digit = 2;
         if (index > 10) {

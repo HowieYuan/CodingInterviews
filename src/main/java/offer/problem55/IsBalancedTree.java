@@ -16,7 +16,6 @@ public class IsBalancedTree {
         if (root == null) {
             return true;
         }
-        int depth = 1;
         int leftDepth = getDepth1(root.left);
         int rightDepth = getDepth1(root.right);
         if (leftDepth - rightDepth > 1 || leftDepth - rightDepth < -1) {
