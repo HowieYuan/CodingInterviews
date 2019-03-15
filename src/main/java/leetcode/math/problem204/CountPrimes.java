@@ -1,7 +1,4 @@
-package leetcode.math;
-
-import java.util.ArrayList;
-import java.util.List;
+package leetcode.math.problem204;
 
 /**
  * Created with IntelliJ IDEA
