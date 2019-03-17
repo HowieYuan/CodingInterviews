@@ -79,24 +79,32 @@
 
 
 ## 二. Leetcode
-### 1. 链表
+### 1. 数组
+[1. 两数之和](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/array/problem1/TwoSum.java)<br />
+[15. 三数之和](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/array/problem15/ThreeSum.java)<br />
+[41. 缺失的第一个正数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/array/problem41/FirstMissingPositive.java)<br />
+[88. 合并两个有序数组](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/array/problem88/MergeSortedArray.java)<br />
+
+### 2. 链表
 [24. 两两交换链表中的节点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem24/SwapNodes.java)<br />
 [25. k个一组翻转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem25/ReverseNodesInKGroup.java)<br />
 [141. 环形链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem141/LinkedListCycle.java)<br />
 [142. 环形链表2](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem142/LinkedListCycle2.java)<br />
 [206. 反转链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/linkedList/problem206/Reverse.java)<br />
 
-### 2. 集合
-[1. 两数之和](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/collection/problem1/TwoSum.java)<br />
-[15. 三数之和](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/collection/problem15/ThreeSum.java)<br />
+### 3. 集合
 [242. 有效的字母异位词](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/collection/problem242/ValidAnagram.java)<br />
 
 
-### 3. 优先队列
+### 4. 优先队列
+[23. 合并 K 个排序链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/priorityQueue/problem23/MergeKSortedLists.java)<br />
 [239. 滑动窗口最大值](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/priorityQueue/problem239/MaxSlidingWindow.java)<br />
 [703. 数据流中的第K大元素](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/priorityQueue/problem703/KthLargest.java)<br />
 
-### 4. 栈与队列
+### 5. 栈与队列
 [20. 有效的括号](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/stackAndQueue/problem20/ValidParentheses.java)<br />
 [225. 队列实现栈](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/stackAndQueue/problem225/MyStack.java)<br />
 [232. 栈实现队列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/stackAndQueue/problem232/MyQueue.java)<br />
+
+### 6. 数学
+[204. 计算 n 以内的素数](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/leetcode/math/problem204/CountPrimes.java)<br />
