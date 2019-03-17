@@ -1,11 +1,11 @@
 ## 一. 剑指 offer
-[3. 数组中重复的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem3/Three.java)<br />
-[4. 二维数组中的查找](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem4/Four.java)<br />
-[5. 替换空格](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem5/Five.java)<br />
-[6. 从头到尾打印链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem6/Six.java)<br />
-[7. 重建二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem7/Seven.java)<br />
-[8. 二叉树的下一个结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem8/Eight.java)<br />
-[9. 用两个栈实现队列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem9/Nine.java)<br />
+[3. 数组中重复的数字](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem03/Three.java)<br />
+[4. 二维数组中的查找](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem04/Four.java)<br />
+[5. 替换空格](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem05/Five.java)<br />
+[6. 从头到尾打印链表](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem06/Six.java)<br />
+[7. 重建二叉树](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem07/Seven.java)<br />
+[8. 二叉树的下一个结点](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem08/Eight.java)<br />
+[9. 用两个栈实现队列](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem09/Nine.java)<br />
 [10.1. 斐波那契](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten.java)<br />
 [10.2. 青蛙跳台阶](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten2.java)<br />
 [10.3. 青蛙变态跳台阶](https://github.com/HowieYuan/CodingInterviews/blob/master/src/main/java/offer/problem10/Ten3.java)<br />
